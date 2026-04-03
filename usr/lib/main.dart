@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'screens/login_screen.dart';
+import 'screens/admin_dashboard.dart';
+import 'screens/child_dashboard.dart';
 import 'providers/auth_provider.dart';
 import 'providers/log_provider.dart';
 
